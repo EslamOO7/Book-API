@@ -1,0 +1,20 @@
+1/23/2023, 3:58:59 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/23/2023, 5:34:19 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/23/2023, 5:41:37 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/23/2023, 5:43:08 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/23/2023, 5:47:39 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/23/2023, 5:50:03 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/23/2023, 7:51:19 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/24/2023, 3:56:23 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/24/2023, 3:58:42 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/24/2023, 4:21:40 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/26/2023, 5:45:08 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/26/2023, 7:17:17 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/26/2023, 7:17:29 PM | ERROR | Failed to get Book Details : {"length":166,"name":"error","severity":"ERROR","code":"42703","hint":"Perhaps you meant to reference the column \"book.bookid\".","position":"280","file":"parse_relation.c","line":"3661","routine":"errorMissingColumn"} | 
+ 1/26/2023, 7:22:15 PM | ERROR | Failed to get Book Details : {} | 
+ 1/26/2023, 7:57:26 PM | ERROR | Failed to get Book Details : {"length":115,"name":"error","severity":"ERROR","code":"42702","position":"87","file":"parse_relation.c","line":"820","routine":"scanRTEForColumn"} | 
+ 1/26/2023, 8:03:15 PM | INFO | Returning book list | data: [{"bookid":3,"book_title":"javascript","book_description":"this is book about javascript","book_author":"Elzero","book_publisher":"W3s"},{"bookid":4,"book_title":"javascript2","book_description":"this is book about javascript222222","book_author":"Elzero","book_publisher":"W3s"}] | 
+ 1/26/2023, 8:03:29 PM | ERROR | Failed to get Book Details : {"length":115,"name":"error","severity":"ERROR","code":"42702","position":"87","file":"parse_relation.c","line":"820","routine":"scanRTEForColumn"} | 
+ 1/26/2023, 8:08:49 PM | ERROR | Failed to get Book Details : {"length":115,"name":"error","severity":"ERROR","code":"42702","position":"87","file":"parse_relation.c","line":"820","routine":"scanRTEForColumn"} | 
+ 1/26/2023, 8:16:24 PM | ERROR | Failed to get Book Details : {} | 
+ 1/26/2023, 8:20:41 PM | ERROR | Failed to get Book Details : {"name":"Invalid BookID","httpStatusCode":500,"description":"Invalid BookID, must be a number","isOperational":true} | 
